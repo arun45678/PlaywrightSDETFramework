@@ -1,0 +1,13 @@
+{
+  "clientName": "MGT QA TEST Build",
+  "department": "Department 2",
+  "businessArea": "IT Services",
+  "buildingName": "Asite Tower",
+  "contactName": "Varun Kahtri",
+  "streetAddress": "123 MG Road",
+  "email": "abc@test.com",
+  "town": "Nagpur",
+  "telephone": "8780912775",
+  "postCode": "380001",
+  "issueToUser": "Damanjeetsingh Kamboz , Asite"
+}
