@@ -2,7 +2,7 @@ import { test as base } from "@playwright/test"
 import {Loginpage} from "../pages/LoginPage.js"
 import { readJson } from "../utils/readjson.js"
 
-
+export { expect } from "@playwright/test";
 export const test = base.extend(
     {
         loginPage: async ({ page }, use) => {
